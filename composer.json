@@ -1,0 +1,6 @@
+{
+    "require": {
+        "team-reflex/discord-php": "^7.3",
+        "google/cloud-speech": "^1.15"
+    }
+}
