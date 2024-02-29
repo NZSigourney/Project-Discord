@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => '__root__',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => NULL,
+        'pretty_version' => 'dev-Main',
+        'version' => 'dev-Main',
+        'reference' => 'a65ca0626015f82efc9e8c9d483d35e38b84b925',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         '__root__' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => NULL,
+            'pretty_version' => 'dev-Main',
+            'version' => 'dev-Main',
+            'reference' => 'a65ca0626015f82efc9e8c9d483d35e38b84b925',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
@@ -479,9 +479,9 @@
             ),
         ),
         'team-reflex/discord-php' => array(
-            'pretty_version' => 'v7.3.4',
-            'version' => '7.3.4.0',
-            'reference' => '82843da4346878a432171f8d82e345389f7cc49b',
+            'pretty_version' => 'v7.3.5',
+            'version' => '7.3.5.0',
+            'reference' => '798cad7aa075a5bdbda430bb60965664240813c7',
             'type' => 'library',
             'install_path' => __DIR__ . '/../team-reflex/discord-php',
             'aliases' => array(),
